@@ -1,2 +1,2 @@
-# arduino_bluetooth_config
+# Arduino Bluetooth Config
 Bluetooth configuration
